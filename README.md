@@ -35,7 +35,7 @@ A Gacha simulator web application built by Node.js, Express, MongoDB and React.j
 ### 👨‍👦‍👦 Us
 
 #### Team Name: 
- - ** :v **
+ - ** Go find treasure of NTL **
 
 #### Team Leader: 
 - **Do Minh Quan** - ITITIU20282
@@ -61,7 +61,9 @@ Project is created with:
 
 ### ⚙ Architecture
 
-
+<p align="center"> 
+<img width="497" alt="uml" src="https://github.com/Litaaya/Gacha-Simulator/assets/99407775/3c6c0e33-ce56-4ad2-8945-66cd18e6b7b3">
+</p>
 
 ---
 
