@@ -5,7 +5,7 @@
 </p>
     <br>
     <br>
-A Gacha simulator web application built by Node Express, MongoDB and React.js, only available on PC.💻💻💻💻💻💻
+A Gacha simulator web application built by Node.js, Express, MongoDB and React.js, only available on PC.💻💻💻💻💻💻
 </p>
 
 ---
@@ -24,59 +24,64 @@ A Gacha simulator web application built by Node Express, MongoDB and React.js, o
 ## About
 
 ### 📌 General Information
-
+- The Gacha application simulates a popular gaming mechanic where users can "pull" for random items. This project aims to develop a web application that provides this functionality, along with user and item management features.
+- Develop a scalable and robust backend service.
+- Create an intuitive and responsive frontend interface.
+- Ensure seamless integration between the frontend and backend.
+- Provide secure and efficient data storage using MongoDB.
 
 ### 🏆 Our Motivation:
-
+- We would like to do the challenge as we see the developing of gacha game arround the world. In the future, we may making a game related to this mechanic, or this website can also help people in their decision making, risk managing before spending the real money into gacha games.
 ### 👨‍👦‍👦 Us
 
 #### Team Name: 
- - **Phour Team**
+ - ** :v **
 
 #### Team Leader: 
-- **Nguyen Huynh Nguyen** - ITITIU20261
+- **Do Minh Quan** - ITITIU20282
 
 | No  | Name                          | ID          | Main Contributes                                                                       | Contacts                                                                                                                                |
 |-----|-------------------------------|-------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | **Nguyen Huynh Nguyen** 👨‍💻 | ITITIU20261 | Game Developer, Github repository host, Debug & fixing code, Tasks distributor.        | [Github](https://github.com/PlayerNguyen) [Facebook](https://www.facebook.com/Okura.Nguyen) [Email](mailto:nhnguyen.forwork@gmail.com)  |
-| 2   | **Tran Tuan Nghiep** 👨‍🎨    | ITITIU20259 | Game artist, Idea contributor, Quality Checker, Tasks Tracker.                         | [Github](https://github.com/TuanNghiep) [Facebook](https://www.facebook.com/nghiep.tuan.58) [Email](mailto:nghieptrantuan@gmail.com)    |
-| 3   | **Vo Trung Duong**✍           | ITITIU20193 | Game designer, Script Writer, Thoughts & Ideas Gatherer, Game Sounds & Music composer. | [Github](https://github.com/Callmeserpent) [Facebook](https://www.facebook.com/callmeserpent) [Email](mailto:voduong.hcmiu@gmail.com) |
+| 1   | **Do Minh Quan** 👨‍💻 | ITITIU20282 | Backend Developer, Github repository host, Debug & fixing code, Tasks distributor.        | [Github](https://github.com/Litaaya) [Facebook](https://www.facebook.com/profile.php?id=100064877317275) [Email](minhquans2810@gmail.com)  |
+| 2   | **Le Duy Hieu** 👨‍🎨    | ITITIU21200 | Web art, Idea contributor, Quality Checker.                         | [Github](https://github.com/Kou3153) [Facebook](https://www.facebook.com/xicez3153) [Email](Ititiu21200@student.hcmiu.edu.vn)    |
+| 3   | **Vo Trung Duong**✍           | ITITIU20193 | Frontend Developer, Thoughts & Ideas Gatherer, System Design. | [Github](https://github.com/Callmeserpent) [Facebook](https://www.facebook.com/callmeserpent) [Email](mailto:voduong.hcmiu@gmail.com) |
 
 ---
 
 ## Technologies
 
 Project is created with:
-- ![java_24x24](https://user-images.githubusercontent.com/99407775/169029133-7f054149-020d-4853-91dd-942b9d4045c0.png) Java Language.
-- [Oracle JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
-- [libGDX](https://libgdx.com/) ![libGDX ver](https://img.shields.io/badge/version-1.10.0.-yellowgreen).
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) ![Intellij ver](https://img.shields.io/badge/version-2021.3.3-ff69b4).
-
+- Backend: Node.js and Express, connected to a MongoDB database.
+- Frontend: React application that communicates with the backend via RESTful APIs.
 ## Setup
 
 
 ### 🔑 Launch
 
-### ⚖️ License
-This project is licensed under the ```GNU GPL ver.3```.
-We would recommend that you read our [license](https://github.com/PlayerNguyen/ZombieLand/blob/master/LICENSE) to avoid copyrighted issues.
 
 ### ⚙ Architecture
+
+
 
 ---
 
 ## Features
 
+- 3 distinctive banners: 2 special character banners and 1 normal banner. (All contain different rates).
+- Auto-updated Inventory: Any time you pull a cat, the inventory will update, and stay there after you re-login the website.
+- Beutiful gacha cutscene.
+- Readable banner details: inform user what contains in the banner. 
 
 ---
 
 ## Project Status
-
+- Our project will update Login function in the future. Apparently user can select banner, pull gacha and see inventory.
 
 ### Challenging
-
+- We see the challenge in making a web application as the backend requires various and deep knowlegde to master, we have to research more on Node Express, MongoDB, as it is popular in industry nowaday. Overall, we manage to overcome it and improve our skill for future work.
 
 ---
 
 ## Acknowledgements
-
+- Thank you DragonMarquise for motivating us to do the project.
+- Thank you Prof. Nguyen Van Sinh and Mr.Minh for guiding us in Web Application Course.
