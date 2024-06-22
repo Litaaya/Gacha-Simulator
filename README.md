@@ -57,7 +57,17 @@ Project is created with:
 
 
 ### 🔑 Launch
-
+- You can clone or download the zip folder to your computer to run on localhost using VS Code and MongoDB Compass
+- Once you have completed the above step, start two different terminal windows and run the following commands:
+```bash
+cd frontend
+npm install
+npm start
+```
+```bash
+cd backend
+node server.js
+```
 
 ### ⚙ Architecture
 
